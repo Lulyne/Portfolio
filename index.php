@@ -22,5 +22,3 @@
     <div class="petit_tab"> XD </div> 
 
 </div>
-
-<?php include "html_partials/footer.php"; ?>
